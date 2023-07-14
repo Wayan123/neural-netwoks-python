@@ -22,6 +22,8 @@ Contoh kasus non-linier yang diselesaikan,
 
 Sumber gambar: https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-XOR-gate-417x500.png
 
+1. Output pelatihan tanpa menggunakan momentum
+![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/f95d699f-5eaa-4976-b4ea-26db07581c70)
 
-
-
+2. Output pelatihan dengan menggunakan momentum
+![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/5abdb5db-7090-4c28-aa8d-359704fa4446)
