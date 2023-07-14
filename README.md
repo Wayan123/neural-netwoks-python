@@ -1,4 +1,4 @@
-# neural-netwoks-python
+# Neural Netwoks Python
 Kode ini adalah contoh dari penerapan algoritma backpropagation tanpa menambahkan momentum dan dengan menggunakan momentum.
 
 ![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/10818854-a2a3-4ea6-952d-87fba5d63556)
