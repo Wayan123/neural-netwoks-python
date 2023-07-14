@@ -14,7 +14,7 @@ Sumber gambar: https://miro.medium.com/v2/resize:fit:1400/0*D06frVouKB2NddQF.png
 
 ![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/527057dd-aa05-43b8-8f6b-089afbda8b99)
 
-Sumber algoritma: Buku Jaringan Saraf Tiruan & Pemrograman menggunakan MATLAB, karangan Drs. Jong Jek Siang, M.Sc
+Sumber algoritma: Buku Jaringan Saraf Tiruan & Pemrograman menggunakan MATLAB, karangan Drs. Jong Jek Siang, M.Sc, penerbit: ANDI Yogyakarta
 
 Contoh kasus non-linier yang diselesaikan,
 
