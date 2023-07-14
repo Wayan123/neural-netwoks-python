@@ -2,6 +2,7 @@
 Kode ini adalah contoh dari penerapan algoritma backpropagation tanpa menambahkan momentum dan dengan menggunakan momentum.
 
 ![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/10818854-a2a3-4ea6-952d-87fba5d63556)
+
 Sumber gambar: https://miro.medium.com/v2/resize:fit:1400/0*D06frVouKB2NddQF.png
 
 
@@ -16,7 +17,8 @@ Sumber gambar: https://miro.medium.com/v2/resize:fit:1400/0*D06frVouKB2NddQF.png
 Contoh kasus non-linier yang diselesaikan,
 
 ![image](https://github.com/Wayan123/neural-netwoks-python/assets/17795544/f0069d30-bfdf-47cb-899f-22c9717eb8ec)
-- Sumber gambar: https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-XOR-gate-417x500.png
+
+Sumber gambar: https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-XOR-gate-417x500.png
 
 
 
